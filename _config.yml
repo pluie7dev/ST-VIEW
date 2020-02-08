@@ -1,4 +1,4 @@
-
+disqus_ID : disqus_vvvEQyTWgg
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -11,44 +11,18 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-
-- label: "ST-JAVA-SPRING-SQL"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-
-- label: "ST-SERVER-CONN"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-    
-
-- label: "ST-ALG-KERAS"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-    
-
-- label: "ST-VIEW"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-    
-
-- label: "ST-PROJECT-TOOLS"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-
-
-
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Honey lapin"
+title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Honey Lapin"
+name                     : "Your Name"
 description              : "An amazing website."
-url                      : https://pluie7dev.github.io/ST-VIEW/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -92,7 +66,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true 
+search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -134,36 +108,49 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-                   
-  
- 
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
-    #- label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:pluie7j@gmail.com
-    
-     
-    - label: "INVEST"
+    - label: "ST-JAVA-SPRING-SQL"
       icon: "fas fa-fw fa-link"
-      url: "https://pluie7dev.github.io/INVEST/"
-      
-    - label: "DEV"
+      url: "https://github.com/pluie7dev/ST-JAVA-SPRING-SQL"
+    - label: "ST-SERVER-CONN"
       icon: "fas fa-fw fa-link"
-      url: "https://pluie7dev.github.io/DEV/"  
-           
-    - label: "PRIVATE"
+      url: "https://github.com/pluie7dev/ST-SERVER-CONN"
+    - label: "ST-ALG-KERAS"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/pluie7dev/private"
-    
- 
- 
+      url: "https://github.com/pluie7dev/ST-ALG-KERAS"
+    - label: "ST-VIEW"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/pluie7dev/ST-VIEW"
+    - label: "ST-PROJECT-TOOLS"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/pluie7dev/ST-PROJECT-TOOLS"
 
 # Site Footer
 footer:
   links:
-
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
 
 
 # Reading Files
@@ -302,8 +289,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: # true
+      share: true
       related: true
-
-
-disqus_ID : disqus_vvvEQyTWgg
