@@ -120,6 +120,19 @@ author:
   
  
   links:
+  
+    
+    - label: "INVEST"
+      icon: "fas fa-fw fa-link"
+      url: "https://pluie7dev.github.io/INVEST/"
+      
+    - label: "DEV"
+      icon: "fas fa-fw fa-link"
+      url: "https://pluie7dev.github.io/DEV/"  
+           
+    - label: "PRIVATE"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/pluie7dev/private"
    
  
  
