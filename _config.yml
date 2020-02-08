@@ -12,6 +12,28 @@ disqus_ID : disqus_vvvEQyTWgg
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 
+- label: "ST-JAVA-SPRING-SQL"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/pluie7dev/private"
+
+- label: "ST-SERVER-CONN"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/pluie7dev/private"
+    
+
+- label: "ST-ALG-KERAS"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/pluie7dev/private"
+    
+
+- label: "ST-VIEW"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/pluie7dev/private"
+    
+
+- label: "ST-PROJECT-TOOLS"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/pluie7dev/private"
 
 
 
