@@ -1,5 +1,3 @@
-
-
 disqus_ID : disqus_vvvEQyTWgg
 # Welcome to Jekyll!
 #
@@ -18,7 +16,7 @@ disqus_ID : disqus_vvvEQyTWgg
 
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -114,13 +112,17 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
                    
   
  
-  links: 
+  links:
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:pluie7j@gmail.com
     
+     
     - label: "INVEST"
       icon: "fas fa-fw fa-link"
       url: "https://pluie7dev.github.io/INVEST/"
@@ -132,6 +134,7 @@ author:
     - label: "PRIVATE"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/pluie7dev/private"
+    
  
  
 
@@ -279,5 +282,3 @@ defaults:
       comments: # true
       share: # true
       related: true
-      
-    
