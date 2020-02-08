@@ -119,12 +119,7 @@ author:
   
  
   links:
-    #- label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:pluie7j@gmail.com
-    
-     
-     - label: "ST-JAVA-SPRING-SQL"
+    - label: "ST-JAVA-SPRING-SQL"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/pluie7dev/ST-JAVA-SPRING-SQL"
     - label: "ST-SERVER-CONN"
